@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /_tools/
+Disallow: /_backup/
+Disallow: /logs/
+Allow: /
+Sitemap: https://practical-finds.com/sitemap.xml

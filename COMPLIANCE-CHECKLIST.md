@@ -1,0 +1,54 @@
+# COMPLIANCE-CHECKLIST.md
+
+| Page | Affiliate Disclosure | Privacy Link | Meta Robots | Amazon Links |
+|------|----------------------|---------------|--------------|----------------|
+| 404.html | ✓ | ✓ | ✓ | ✓ |
+| about.html | ✓ | ✓ | ✓ | ✓ |
+| beginner-telescope-on-tripod.html | ✓ | ✓ | ✓ | ✓ |
+| best-4k-dash-cams.html | ✓ | ✓ | ✓ | ✓ |
+| best-75-mechanical-keyboards.html | ✓ | ✓ | ✓ | ✓ |
+| best-smart-plugs-2025.html | ✓ | ✓ | ✓ | ✓ |
+| blogs.html | ✓ | ✓ | ✓ | ✓ |
+| budget-robot-vacuums-300.html | ✓ | ✓ | ✓ | ✓ |
+| cobra-rad-radar-detector.html | ✓ | ✓ | ✓ | ✓ |
+| compact-air-fryers.html | ✓ | ✓ | ✓ | ✓ |
+| contact.html | ✓ | ✓ | ✓ | ✓ |
+| disclaimer.html | ✓ | ✓ | ✓ | ✓ |
+| garmin-gps-map.html | ✓ | ✓ | ✓ | ✓ |
+| gosky-diamond-edge.html | ✓ | ✓ | ✓ | ✓ |
+| index.html | ✓ | ✓ | ✓ | ✓ |
+| jabra-engage-75-se.html | ✓ | ✓ | ✓ | ✓ |
+| listicles.html | ✓ | ✓ | ✓ | ✓ |
+| magsafe-car-mounts.html | ✓ | ✓ | ✓ | ✓ |
+| mini-bluetooth-speakers.html | ✓ | ✓ | ✓ | ✓ |
+| nintendo-switch-console.html | ✓ | ✓ | ✓ | ✓ |
+| open-ear-bluetooth-earbuds.html | ✓ | ✓ | ✓ | ✓ |
+| portable-power-banks-20k.html | ✓ | ✓ | ✓ | ✓ |
+| privacy.html | ✓ | ✓ | ✓ | ✓ |
+| quick-picks.html | ✓ | ✓ | ✓ | ✓ |
+| shower-speakers-ipx7.html | ✓ | ✓ | ✓ | ✓ |
+| smart-bluetooth-scale-2025.html | ✓ | ✓ | ✓ | ✓ |
+| sony-wh-1000xm4-review.html | ✓ | ✓ | ✓ | ✓ |
+| sony-wh-wireless-headphones.html | ✓ | ✓ | ✓ | ✓ |
+| terms.html | ✓ | ✓ | ✓ | ✓ |
+| pages/blogs/beginner-telescope-on-tripod.html | ✓ | ✓ | ✓ | ✓ |
+| pages/blogs/cobra-rad-radar-detector.html | ✓ | ✓ | ✓ | ✓ |
+| pages/blogs/garmin-gps-map.html | ✓ | ✓ | ✓ | ✓ |
+| pages/blogs/gosky-diamond-edge.html | ✓ | ✓ | ✓ | ✓ |
+| pages/blogs/jabra-engage-75-se.html | ✓ | ✓ | ✓ | ✓ |
+| pages/blogs/mini-bluetooth-speakers.html | ✓ | ✓ | ✓ | ✓ |
+| pages/blogs/nintendo-switch-console.html | ✓ | ✓ | ✓ | ✓ |
+| pages/blogs/open-ear-bluetooth-earbuds.html | ✓ | ✓ | ✓ | ✓ |
+| pages/blogs/smart-bluetooth-scale-2025.html | ✓ | ✓ | ✓ | ✓ |
+| pages/blogs/sony-wh-1000xm4-review.html | ✓ | ✓ | ✓ | ✓ |
+| pages/blogs/sony-wh-wireless-headphones.html | ✓ | ✓ | ✓ | ✓ |
+| pages/listicles/best-4k-dash-cams.html | ✓ | ✓ | ✓ | ✓ |
+| pages/listicles/best-75-mechanical-keyboards.html | ✓ | ✓ | ✓ | ✓ |
+| pages/listicles/best-smart-plugs-2025.html | ✓ | ✗ | ✓ | ✓ |
+| pages/listicles/budget-robot-vacuums-300.html | ✓ | ✓ | ✓ | ✓ |
+| pages/listicles/compact-air-fryers.html | ✓ | ✓ | ✓ | ✓ |
+| pages/listicles/magsafe-car-mounts.html | ✓ | ✓ | ✓ | ✓ |
+| pages/listicles/mini-bluetooth-speakers.html | ✓ | ✓ | ✓ | ✓ |
+| pages/listicles/portable-power-banks-20k.html | ✓ | ✓ | ✓ | ✓ |
+| pages/listicles/quick-picks.html | ✓ | ✓ | ✓ | ✓ |
+| pages/listicles/shower-speakers-ipx7.html | ✓ | ✓ | ✓ | ✓ |
